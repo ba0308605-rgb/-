@@ -1,0 +1,29 @@
+[
+    {
+        "name": "ساعة أنتيكة خشبية",
+        "description": "ساعة أنتيكة مصنوعة من الخشب الطبيعي بتصميم كلاسيكي فاخر",
+        "price": 150.00,
+        "quantity": 5,
+        "image": "images/product1.jpg",
+        "sku": "ANT-001",
+        "category": "ديكور"
+    },
+    {
+        "name": "مصباح زيتي قديم",
+        "description": "مصباح زيتي أنتيك بإضاءة دافئة ومظهر تراثي جميل",
+        "price": 200.00,
+        "quantity": 3,
+        "image": "images/product2.jpg",
+        "sku": "ANT-002",
+        "category": "إضاءة"
+    },
+    {
+        "name": "سجادة عتيقة",
+        "description": "سجادة يدوية الصنع بتصميمات تراثية وألوان طبيعية",
+        "price": 350.00,
+        "quantity": 2,
+        "image": "images/product3.jpg",
+        "sku": "ANT-003",
+        "category": "سجاد"
+    }
+]

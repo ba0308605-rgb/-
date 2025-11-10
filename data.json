@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ba0308605@gmail.com",
+      "password": "$2a$10$8K1p/a0dRL1//uO3v5Z5e.5TzLkK8QZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5Z",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ساعة أنتيكة خشبية",
+      "description": "ساعة أنتيكة مصنوعة من الخشب الطبيعي",
+      "price": 150,
+      "quantity": 5,
+      "image": "images/product1.jpg",
+      "sku": "ANT-001",
+      "category": "ديكور"
+    },
+    {
+      "id": 2,
+      "name": "مصباح زيتي قديم",
+      "description": "مصباح زيتي أنتيك بإضاءة دافئة",
+      "price": 200,
+      "quantity": 3,
+      "image": "images/product2.jpg",
+      "sku": "ANT-002",
+      "category": "إضاءة"
+    }
+  ]
+}
